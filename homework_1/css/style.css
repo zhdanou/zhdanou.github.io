@@ -1,0 +1,102 @@
+body {
+	background-color: #e4e6db;
+}
+
+a {
+	color:darkorange;
+}
+h1	{
+	text-align: center;
+	font-size: 30px;
+}
+
+h2 {
+	text-align: left;
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+#name {
+	text-align: left;
+	padding-left: 366px;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+#container {
+	padding-top: 15px;
+	width: 1300px;
+	height: 310px;
+}
+
+#img {
+margin-left: 0px;
+margin-top: 15px;
+float: left;
+width: 366px;
+height: 250px;
+}
+
+#note {
+font-size: 18px;
+margin-left: 0px;
+margin-top: 15px;
+float: left;
+width: 900px;
+height: 46px;
+}
+
+#price {
+	font-size: 22;
+	font-weight: bold;
+	float: left;
+	margin-left: 0px;
+	margin-top: 15px;
+	width: 900px;
+	height: 32;
+}
+
+#link1 {
+	font-size: 18px;
+	font-style: inherit;
+	float: left;
+	margin-left: 0px;
+	margin-top: 15px;
+	width: 900px;
+	height: 28px;
+}
+
+#list {
+	font-size: 14px;
+	float: left;
+	margin-left: 0px;
+	margin-top: 15px;
+	width: 900px;
+	height: 24;
+}
+
+#link2 {
+	font-size: 18px;
+	font-style: inherit;
+	float: left;
+	margin-left: 0px;
+	margin-top: 15px;
+	width: 900px;
+	height: 28px;
+}
+
+table {
+	width: 100%;
+  border: 1px solid #399;
+	border-spacing: 7px 5px;
+}
+
+th {
+	border: 1px solid #333;
+	padding: 5px;
+}
+
+td {
+	border: 1px solid #333;
+	padding: 5px;
+}
